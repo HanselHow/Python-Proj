@@ -12,7 +12,7 @@ for x in h.headers:
 
 
 headers = {
-    'User-Agent' : 'Iphone'
+    'User-Agent' : 'Mobile'
 }
 URLheader = ('http://172.18.58.238/headers.php')
 rh = requests.get(URLheader, headers=headers)
