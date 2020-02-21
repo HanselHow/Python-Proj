@@ -34,3 +34,5 @@ class Test_NewSpider(unittest.TestCase):
         NewSpider()
 
 if __name__ == '__main__': unittest.main()
+
+#TESTING
